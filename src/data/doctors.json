@@ -1,0 +1,1663 @@
+{
+  "meta": {
+    "generated": "2026-05-03",
+    "source": "готово.md",
+    "totalRussiaCities": 28,
+    "totalRussiaDoctors": 94,
+    "totalCISCountries": 4,
+    "totalCISDoctors": 11
+  },
+  "russia": [
+    {
+      "id": "moskva",
+      "city": "Москва",
+      "region": "Москва и область",
+      "coordinates": [
+        55.7558,
+        37.6173
+      ],
+      "country": "RU",
+      "doctorsCount": 41,
+      "doctors": [
+        {
+          "id": "moskva-antonov-aleksei-anatol-evich",
+          "fullName": "Антонов Алексей Анатольевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/630361-antonov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-erichev-valerii-petrovich",
+          "fullName": "Еричев Валерий Петрович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/875662-erichev/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-kurysheva-nataliia-ivanovna",
+          "fullName": "Курышева Наталия Ивановна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/303841-kurysheva/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-kuroedov-aleksandr-vladimirovich",
+          "fullName": "Куроедов Александр Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/odincovo/vrach/318556-kuroedov/",
+          "actualCity": "Одинцово"
+        },
+        {
+          "id": "moskva-sorokoletov-grigorii-vladimirovich",
+          "fullName": "Сороколетов Григорий Владимирович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/1029253-sorokoletov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-sokolovskaia-tat-iana-viktorovna",
+          "fullName": "Соколовская Татьяна Викторовна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/485487-sokolovskaya/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-ioshin-igor-eduardovich",
+          "fullName": "Иошин Игорь Эдуардович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы + катаракты",
+            "note": "катаракта"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/286822-ioshin/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-lovpache-dzhamilia-nuriidinovna",
+          "fullName": "Ловпаче Джамиля Нурийдиновна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/484364-lovpache/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-alekseev-igor-borisovich",
+          "fullName": "Алексеев Игорь Борисович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/372248-alekseev/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-samoilenko-aleksandr-igorevich",
+          "fullName": "Самойленко Александр Игоревич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы + катаракты",
+            "note": "катаракта"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/137127-samoylenko/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-iakupova-svetlana-raufovna",
+          "fullName": "Якупова Светлана Рауфовна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/219061-yakupova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-volzhanin-andrei-vladimirovich",
+          "fullName": "Волжанин Андрей Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/1282537-volzhanin/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-vitkov-aleksandr-aleksandrovich",
+          "fullName": "Витков Александр Александрович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/983184-vitkov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-kadyshev-vitalii-viktorovich",
+          "fullName": "Кадышев Виталий Викторович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы (генетика)",
+            "note": "генетика"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/64077-kadyshev/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-klinicheva-elizaveta-andreevna",
+          "fullName": "Клиничева Елизавета Андреевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/mytishi/vrach/969963-klinicheva/",
+          "actualCity": "Мытищи"
+        },
+        {
+          "id": "moskva-agadzhanian-tigran-manukovich",
+          "fullName": "Агаджанян Тигран Манукович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/1282527-agadzhanyan/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-bakunina-natal-ia-aleksandrovna",
+          "fullName": "Бакунина Наталья Александровна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/341129-bakunina/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-baryshnikova-dar-ia-andreevna",
+          "fullName": "Барышникова Дарья Андреевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/373933-baryshnikova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-glazko-nadezhda-gennad-evna",
+          "fullName": "Глазко Надежда Геннадьевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/956424-glazko/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-zubasheva-svetlana-aleksandrovna",
+          "fullName": "Зубашева Светлана Александровна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/289810-zubasheva/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-cherniakova-tat-iana-vasil-evna",
+          "fullName": "Чернякова Татьяна Васильевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/852460-chernyakova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-baeva-anna-borisovna",
+          "fullName": "Баева Анна Борисовна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/1108464-baeva/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-gapon-ko-olesia-vladimirovna",
+          "fullName": "Гапонько Олеся Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/953565-gaponko/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-gorodnichii-vitalii-vladimirovich",
+          "fullName": "Городничий Виталий Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/356758-gorodnichiy/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-zhavoronkov-sergei-aleksandrovich",
+          "fullName": "Жаворонков Сергей Александрович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/457524-zhavoronkov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-fomin-nikolai-evgen-evich",
+          "fullName": "Фомин Николай Евгеньевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/854648-fomin/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-ungur-ianov-oleg-vladimirovich",
+          "fullName": "Унгурьянов Олег Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/160997-unguryanov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-panteleev-evgenii-nikolaevich",
+          "fullName": "Пантелеев Евгений Николаевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия (замена хрусталиков)",
+            "note": "замена хрусталика"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/580604-panteleev/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-varkentina-irina-valer-evna",
+          "fullName": "Варкентина Ирина Валерьевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/303847-varkentina/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-opytova-inna-sergeevna",
+          "fullName": "Опытова Инна Сергеевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/417774-opytova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-kats-mikhail-dmitrievich",
+          "fullName": "Кац Михаил Дмитриевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/850309-kac/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-ovanesian-vladimir-eduardovich",
+          "fullName": "Ованесян Владимир Эдуардович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/bronnicy/vrach/845393-ovanesyan/",
+          "actualCity": "Бронницы"
+        },
+        {
+          "id": "moskva-petrov-sergei-iur-evich",
+          "fullName": "Петров Сергей Юрьевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/931344-petrov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-loskutov-igor-anatol-evich",
+          "fullName": "Лоскутов Игорь Анатольевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/287612-loskutov/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-kozlova-irina-vladimirovna",
+          "fullName": "Козлова Ирина Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/935479-kozlova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-makarova-anna-sergeevna",
+          "fullName": "Макарова Анна Сергеевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/935486-makarova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-lovpache-dzhamilia-nuriidinovna",
+          "fullName": "Ловпаче Джамиля Нурийдиновна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/484364-lovpache/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-sidorova-alla-valentinovna",
+          "fullName": "Сидорова Алла Валентиновна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/500041-sidorova/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-khodzhaev-nazrulla-sagdullaevich",
+          "fullName": "Ходжаев Назрулла Сагдуллаевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/220756-hodzhaev/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-starostina-anna-vladimirovna",
+          "fullName": "Старостина Анна Владимировна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/565303-starostina/",
+          "actualCity": "Москва"
+        },
+        {
+          "id": "moskva-pershin-kirill-borisovich",
+          "fullName": "Першин Кирилл Борисович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы + катаракты",
+            "note": "катаракта"
+          },
+          "profileUrl": "https://prodoctorov.ru/moskva/vrach/220761-pershin/",
+          "actualCity": "Москва"
+        }
+      ]
+    },
+    {
+      "id": "sankt-peterburg",
+      "city": "Санкт-Петербург",
+      "region": "Санкт-Петербург и СЗФО",
+      "coordinates": [
+        59.9311,
+        30.3609
+      ],
+      "country": "RU",
+      "doctorsCount": 6,
+      "doctors": [
+        {
+          "id": "sankt-peterburg-nikolaenko-vadim-petrovich",
+          "fullName": "Николаенко Вадим Петрович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/spb/vrach/85805-nikolaenko/",
+          "actualCity": "Санкт-Петербург"
+        },
+        {
+          "id": "sankt-peterburg-korelina-viktoriia-evgen-evna",
+          "fullName": "Корелина Виктория Евгеньевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/spb/vrach/224262-korelina/",
+          "actualCity": "Санкт-Петербург"
+        },
+        {
+          "id": "sankt-peterburg-zavadskii-pavel-cheslavovich",
+          "fullName": "Завадский Павел Чеславович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/petrozavodsk/vrach/457074-zavadskiy/",
+          "actualCity": "Петрозаводск"
+        },
+        {
+          "id": "sankt-peterburg-onufriichuk-ol-ga-nikolaevna",
+          "fullName": "Онуфрийчук Ольга Николаевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы (детская)",
+            "note": "детская"
+          },
+          "profileUrl": "https://prodoctorov.ru/spb/vrach/462906-onufriychuk/",
+          "actualCity": "Санкт-Петербург"
+        },
+        {
+          "id": "sankt-peterburg-beletskaia-inessa-stanislavovna",
+          "fullName": "Белецкая Инесса Станиславовна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/spb/vrach/273270-beleckaya/",
+          "actualCity": "Санкт-Петербург"
+        },
+        {
+          "id": "sankt-peterburg-kladko-mariia-aleksandrovna",
+          "fullName": "Кладко Мария Александровна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/spb/vrach/458263-kladko/",
+          "actualCity": "Санкт-Петербург"
+        }
+      ]
+    },
+    {
+      "id": "voronezh",
+      "city": "Воронеж",
+      "region": "Воронежская область",
+      "coordinates": [
+        51.6755,
+        39.2089
+      ],
+      "country": "RU",
+      "doctorsCount": 3,
+      "doctors": [
+        {
+          "id": "voronezh-avdeev-roman-vasil-evich",
+          "fullName": "Авдеев Роман Васильевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/voronezh/vrach/662150-avdeev/",
+          "actualCity": null
+        },
+        {
+          "id": "voronezh-myskova-galina-mikhailovna",
+          "fullName": "Мыскова Галина Михайловна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/voronezh/vrach/524258-myskova/",
+          "actualCity": null
+        },
+        {
+          "id": "voronezh-savrasova-irina-igorevna",
+          "fullName": "Саврасова Ирина Игоревна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/voronezh/vrach/765445-savrasova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "cheliabinsk",
+      "city": "Челябинск",
+      "region": "Челябинская область",
+      "coordinates": [
+        55.1644,
+        61.4368
+      ],
+      "country": "RU",
+      "doctorsCount": 5,
+      "doctors": [
+        {
+          "id": "cheliabinsk-dorofeev-dmitrii-aleksandrovich",
+          "fullName": "Дорофеев Дмитрий Александрович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/chelyabinsk/vrach/47814-dorofeev/",
+          "actualCity": null
+        },
+        {
+          "id": "cheliabinsk-berdnikova-ekaterina-vital-evna",
+          "fullName": "Бердникова Екатерина Витальевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/chelyabinsk/vrach/122837-berdnikova/",
+          "actualCity": null
+        },
+        {
+          "id": "cheliabinsk-kuznetsov-andrei-sergeevich",
+          "fullName": "Кузнецов Андрей Сергеевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/chelyabinsk/vrach/142304-kuznecov/",
+          "actualCity": null
+        },
+        {
+          "id": "cheliabinsk-tonkikh-natal-ia-aleksandrovna",
+          "fullName": "Тонких Наталья Александровна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/chelyabinsk/vrach/243378-tonkih/",
+          "actualCity": null
+        },
+        {
+          "id": "cheliabinsk-drozdova-elena-aleksandrovna",
+          "fullName": "Дроздова Елена Александровна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/chelyabinsk/vrach/205749-drozdova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "omsk",
+      "city": "Омск",
+      "region": "Омская область",
+      "coordinates": [
+        54.9893,
+        73.3686
+      ],
+      "country": "RU",
+      "doctorsCount": 2,
+      "doctors": [
+        {
+          "id": "omsk-lebedev-oleg-ivanovich",
+          "fullName": "Лебедев Олег Иванович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/omsk/vrach/496949-lebedev/",
+          "actualCity": null
+        },
+        {
+          "id": "omsk-matnenko-tat-iana-iur-evna",
+          "fullName": "Матненко Татьяна Юрьевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/omsk/vrach/496954-matnenko/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "irkutsk",
+      "city": "Иркутск",
+      "region": "Иркутская область",
+      "coordinates": [
+        52.287,
+        104.305
+      ],
+      "country": "RU",
+      "doctorsCount": 5,
+      "doctors": [
+        {
+          "id": "irkutsk-iur-eva-tat-iana-nikolaevna",
+          "fullName": "Юрьева Татьяна Николаевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/irkutsk/vrach/101487-yureva/",
+          "actualCity": null
+        },
+        {
+          "id": "irkutsk-mikova-ol-ga-ivanovna",
+          "fullName": "Микова Ольга Ивановна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/irkutsk/vrach/101470-mikova/",
+          "actualCity": null
+        },
+        {
+          "id": "irkutsk-volkova-natal-ia-vladimirovna",
+          "fullName": "Волкова Наталья Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/irkutsk/vrach/101501-volkova/",
+          "actualCity": null
+        },
+        {
+          "id": "irkutsk-sinev-pavel-aleksandrovich",
+          "fullName": "Синев Павел Александрович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/irkutsk/vrach/163011-sinev/",
+          "actualCity": null
+        },
+        {
+          "id": "irkutsk-zhukova-svetlana-ivanovna",
+          "fullName": "Жукова Светлана Ивановна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/irkutsk/vrach/101468-zhukova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "kazan",
+      "city": "Казань",
+      "region": "Республика Татарстан",
+      "coordinates": [
+        55.7903,
+        49.1347
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "kazan-zvereva-oksana-germanovna",
+          "fullName": "Зверева Оксана Германовна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/kazan/vrach/103061-zvereva/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "krasnoiarsk",
+      "city": "Красноярск",
+      "region": "Красноярский край",
+      "coordinates": [
+        56.0153,
+        92.8932
+      ],
+      "country": "RU",
+      "doctorsCount": 4,
+      "doctors": [
+        {
+          "id": "krasnoiarsk-balashova-polina-mikhailovna",
+          "fullName": "Балашова Полина Михайловна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/krasnoyarsk/vrach/236900-balashova/",
+          "actualCity": null
+        },
+        {
+          "id": "krasnoiarsk-gar-kavenko-valerii-viktorovich",
+          "fullName": "Гарькавенко Валерий Викторович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/krasnoyarsk/vrach/184588-garkavenko/",
+          "actualCity": null
+        },
+        {
+          "id": "krasnoiarsk-lanin-sergei-nikolaevich",
+          "fullName": "Ланин Сергей Николаевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/krasnoyarsk/vrach/153990-lanin/",
+          "actualCity": null
+        },
+        {
+          "id": "krasnoiarsk-gar-kavenko-viktor-valer-evich",
+          "fullName": "Гарькавенко Виктор Валерьевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/krasnoyarsk/vrach/236896-garkavenko/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "kursk",
+      "city": "Курск",
+      "region": "Курская область",
+      "coordinates": [
+        51.7373,
+        36.1873
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "kursk-brezhnev-andrei-iur-evich",
+          "fullName": "Брежнев Андрей Юрьевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/kursk/vrach/138436-brezhnev/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "ivanovo",
+      "city": "Иваново",
+      "region": "Ивановская область",
+      "coordinates": [
+        56.9943,
+        40.9742
+      ],
+      "country": "RU",
+      "doctorsCount": 2,
+      "doctors": [
+        {
+          "id": "ivanovo-seleznev-aleksei-vladimirovich",
+          "fullName": "Селезнев Алексей Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/ivanovo/vrach/1009550-seleznev/",
+          "actualCity": null
+        },
+        {
+          "id": "ivanovo-nagornova-zinaida-mikhailovna",
+          "fullName": "Нагорнова Зинаида Михайловна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/ivanovo/vrach/1035471-nagornova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "novosibirsk",
+      "city": "Новосибирск",
+      "region": "Новосибирская область",
+      "coordinates": [
+        55.0084,
+        82.9357
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "novosibirsk-gusarevich-anna-aleksandrovna",
+          "fullName": "Гусаревич Анна Александровна",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/novosibirsk/vrach/199386-gusarevich/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "novokuznetsk",
+      "city": "Новокузнецк",
+      "region": "Кемеровская область",
+      "coordinates": [
+        53.7596,
+        87.1216
+      ],
+      "country": "RU",
+      "doctorsCount": 3,
+      "doctors": [
+        {
+          "id": "novokuznetsk-isakov-ivan-nikolaevich",
+          "fullName": "Исаков Иван Николаевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/novokuzneck/vrach/276191-isakov/",
+          "actualCity": null
+        },
+        {
+          "id": "novokuznetsk-vershinina-natal-ia-anatol-evna",
+          "fullName": "Вершинина Наталья Анатольевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/novokuzneck/vrach/985833-vershinina/",
+          "actualCity": null
+        },
+        {
+          "id": "novokuznetsk-onishchenko-aleksandr-leonidovich",
+          "fullName": "Онищенко Александр Леонидович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика"
+          },
+          "profileUrl": "https://prodoctorov.ru/novokuzneck/vrach/276653-onishenko/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "briansk",
+      "city": "Брянск",
+      "region": "Брянская область",
+      "coordinates": [
+        53.2521,
+        34.3717
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "briansk-getmanova-anastasiia-mikhailovna",
+          "fullName": "Гетманова Анастасия Михайловна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/bryansk/vrach/162807-getmanova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "gelendzhik",
+      "city": "Геленджик",
+      "region": "Краснодарский край",
+      "coordinates": [
+        44.5618,
+        38.0769
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "gelendzhik-filatova-ol-ga-vladimirovna",
+          "fullName": "Филатова Ольга Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/gelendzhik/vrach/1341888-filatova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "volgograd",
+      "city": "Волгоград",
+      "region": "Волгоградская область",
+      "coordinates": [
+        48.708,
+        44.5133
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "volgograd-miakon-kaia-olesia-sergeevna",
+          "fullName": "Мяконькая Олеся Сергеевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/volgograd/vrach/526724-myakonkaya/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "ufa",
+      "city": "Уфа",
+      "region": "Республика Башкортостан",
+      "coordinates": [
+        54.7388,
+        55.9721
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "ufa-galimova-aisylu-bulatovna",
+          "fullName": "Галимова Айсылу Булатовна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/ufa/vrach/247237-galimova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "murmansk",
+      "city": "Мурманск",
+      "region": "Мурманская область",
+      "coordinates": [
+        68.9585,
+        33.0827
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "murmansk-kosmynina-svetlana-vladimirovna",
+          "fullName": "Космынина Светлана Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/murmansk/vrach/112297-kosmynina/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "oriol",
+      "city": "Орёл",
+      "region": "Орловская область",
+      "coordinates": [
+        52.9651,
+        36.0785
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "oriol-basinskii-aleksandr-sergeevich",
+          "fullName": "Басинский Александр Сергеевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/oryol/vrach/141856-basinskiy/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "perm",
+      "city": "Пермь",
+      "region": "Пермский край",
+      "coordinates": [
+        58.0105,
+        56.2502
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "perm-shilos-elena-vladimirovna",
+          "fullName": "Шилос Елена Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/perm/vrach/665559-shilos/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "nizhnii-novgorod",
+      "city": "Нижний Новгород",
+      "region": "Нижегородская область",
+      "coordinates": [
+        56.2965,
+        43.9361
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "nizhnii-novgorod-shakhalova-anna-pavlovna",
+          "fullName": "Шахалова Анна Павловна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/nnovgorod/vrach/115522-shahalova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "samara",
+      "city": "Самара",
+      "region": "Самарская область",
+      "coordinates": [
+        53.2415,
+        50.2212
+      ],
+      "country": "RU",
+      "doctorsCount": 3,
+      "doctors": [
+        {
+          "id": "samara-zokhan-aleksandr-aleksandrovich",
+          "fullName": "Зохан Александр Александрович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/samara/vrach/142553-zohan/",
+          "actualCity": null
+        },
+        {
+          "id": "samara-zolotarev-aleksei-vladislavovich",
+          "fullName": "Золотарев Алексей Владиславович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/samara/vrach/142552-zolotarev/",
+          "actualCity": null
+        },
+        {
+          "id": "samara-karlova-elena-vladimirovna",
+          "fullName": "Карлова Елена Владимировна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/samara/vrach/142560-karlova/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "stavropol",
+      "city": "Ставрополь",
+      "region": "Ставропольский край",
+      "coordinates": [
+        45.0428,
+        41.9734
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "stavropol-krylov-sergei-vladimirovich",
+          "fullName": "Крылов Сергей Владимирович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/stavropol/vrach/44886-krylov/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "tomsk",
+      "city": "Томск",
+      "region": "Томская область",
+      "coordinates": [
+        56.4977,
+        84.9744
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "tomsk-ekimov-aleksei-stanislavovich",
+          "fullName": "Екимов Алексей Станиславович",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/tomsk/vrach/282429-ekimov/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "izhevsk",
+      "city": "Ижевск",
+      "region": "Удмуртская Республика",
+      "coordinates": [
+        56.8519,
+        53.2324
+      ],
+      "country": "RU",
+      "doctorsCount": 2,
+      "doctors": [
+        {
+          "id": "izhevsk-serebrennikova-elena-anatol-evna",
+          "fullName": "Серебренникова Елена Анатольевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/izhevsk/vrach/101217-serebrennikova/",
+          "actualCity": null
+        },
+        {
+          "id": "izhevsk-grigor-eva-elena-anatol-evna",
+          "fullName": "Григорьева Елена Анатольевна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/izhevsk/vrach/254564-grigoreva/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "ekaterinburg",
+      "city": "Екатеринбург",
+      "region": "Свердловская область",
+      "coordinates": [
+        56.8389,
+        60.6057
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "ekaterinburg-ivanov-dmitrii-ivanovich",
+          "fullName": "Иванов Дмитрий Иванович",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/ekaterinburg/vrach/233301-ivanov/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "iaroslavl",
+      "city": "Ярославль",
+      "region": "Ярославская область",
+      "coordinates": [
+        57.6261,
+        39.8845
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "iaroslavl-strakhov-vladimir-vital-evich",
+          "fullName": "Страхов Владимир Витальевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": true,
+            "raw": "диагностика + хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/yaroslavl/vrach/357734-strahov/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "barnaul",
+      "city": "Барнаул",
+      "region": "Алтайский край",
+      "coordinates": [
+        53.3481,
+        83.7798
+      ],
+      "country": "RU",
+      "doctorsCount": 2,
+      "doctors": [
+        {
+          "id": "barnaul-makogon-svetlana-ivanovna",
+          "fullName": "Макогон Светлана Ивановна",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/barnaul/vrach/1028390-makogon/",
+          "actualCity": null
+        },
+        {
+          "id": "barnaul-makogon-aleksandr-sergeevich",
+          "fullName": "Макогон Александр Сергеевич",
+          "specialization": {
+            "diagnostics": true,
+            "surgery": false,
+            "raw": "диагностика глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/barnaul/vrach/90319-makogon/",
+          "actualCity": null
+        }
+      ]
+    },
+    {
+      "id": "khabarovsk",
+      "city": "Хабаровск",
+      "region": "Хабаровский край",
+      "coordinates": [
+        48.4814,
+        135.0721
+      ],
+      "country": "RU",
+      "doctorsCount": 1,
+      "doctors": [
+        {
+          "id": "khabarovsk-postupaev-aleksei-valer-evich",
+          "fullName": "Поступаев Алексей Валерьевич",
+          "specialization": {
+            "diagnostics": false,
+            "surgery": true,
+            "raw": "хирургия глаукомы"
+          },
+          "profileUrl": "https://prodoctorov.ru/habarovsk/vrach/1055045-postupaev/",
+          "actualCity": null
+        }
+      ]
+    }
+  ],
+  "cis": [
+    {
+      "id": "kz",
+      "country": "Казахстан",
+      "code": "KZ",
+      "flag": "🇰🇿",
+      "doctorsCount": 5,
+      "cities": [
+        {
+          "id": "kz-almaty",
+          "city": "Алматы",
+          "coordinates": [
+            43.222,
+            76.8512
+          ],
+          "doctorsCount": 3,
+          "doctors": [
+            {
+              "id": "kz-almaty-berikbai-gul-zhiian-tulegenovna",
+              "fullName": "Берикбай Гульжиян Тулегеновна",
+              "city": "Алматы",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "КазНИИ глазных болезней",
+              "profileUrl": null
+            },
+            {
+              "id": "kz-almaty-sangilbaeva-zhanna-oralbekovna",
+              "fullName": "Сангилбаева Жанна Оралбековна",
+              "city": "Алматы",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "КазНИИ глазных болезней",
+              "profileUrl": null
+            },
+            {
+              "id": "kz-almaty-shaikenova-aisulu-dautovna",
+              "fullName": "Шайкенова Айсулу Даутовна",
+              "city": "Алматы",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "КазНИИ глазных болезней; КРМУ",
+              "profileUrl": null
+            }
+          ]
+        },
+        {
+          "id": "kz-astana",
+          "city": "Астана",
+          "coordinates": [
+            51.1605,
+            71.4704
+          ],
+          "doctorsCount": 1,
+          "doctors": [
+            {
+              "id": "kz-astana-urikh-kristina-aleksandrovna",
+              "fullName": "Урих Кристина Александровна",
+              "city": "Астана",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "клиника «Optima», Астана",
+              "profileUrl": null
+            }
+          ]
+        },
+        {
+          "id": "kz-shymkent",
+          "city": "Шымкент",
+          "coordinates": [
+            42.3,
+            69.59
+          ],
+          "doctorsCount": 1,
+          "doctors": [
+            {
+              "id": "kz-shymkent-rakhmankulova-dinara-dulatovna",
+              "fullName": "Рахманкулова Динара Дулатовна",
+              "city": "Шымкент",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": false,
+                "raw": "диагностика глаукомы"
+              },
+              "workplace": "частный кабинет, с. Аксукент",
+              "profileUrl": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uz",
+      "country": "Узбекистан",
+      "code": "UZ",
+      "flag": "🇺🇿",
+      "doctorsCount": 4,
+      "cities": [
+        {
+          "id": "uz-tashkent",
+          "city": "Ташкент",
+          "coordinates": [
+            41.2995,
+            69.2401
+          ],
+          "doctorsCount": 3,
+          "doctors": [
+            {
+              "id": "uz-tashkent-bilolova-sabokhat-sakhobiddinovna",
+              "fullName": "Билолова Сабохат Сахобиддиновна",
+              "city": "Ташкент",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "Crystal Medical Group",
+              "profileUrl": null
+            },
+            {
+              "id": "uz-tashkent-zakhidov-akmal-bakhtiiorovich",
+              "fullName": "Захидов Акмал Бахтиёрович",
+              "city": "Ташкент",
+              "specialization": {
+                "diagnostics": false,
+                "surgery": true,
+                "raw": "хирургия глаукомы"
+              },
+              "workplace": "клиника «SAIF-OPTIMA»",
+              "profileUrl": null
+            },
+            {
+              "id": "uz-tashkent-kamilov-khurshid-mukhamadievich",
+              "fullName": "Камилов Хуршид Мухамадиевич",
+              "city": "Ташкент",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": false,
+                "raw": "диагностика глаукомы"
+              },
+              "workplace": "ТашПМИ",
+              "profileUrl": null
+            }
+          ]
+        },
+        {
+          "id": "uz-gulistan",
+          "city": "Гулистан",
+          "coordinates": [
+            40.4897,
+            68.7842
+          ],
+          "doctorsCount": 1,
+          "doctors": [
+            {
+              "id": "uz-gulistan-karimov-umidzhon-rustamovich",
+              "fullName": "Каримов Умиджон Рустамович",
+              "city": "Гулистан",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "Сырдарьинская обл. офт. больница",
+              "profileUrl": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "by",
+      "country": "Беларусь",
+      "code": "BY",
+      "flag": "🇧🇾",
+      "doctorsCount": 1,
+      "cities": [
+        {
+          "id": "by-gomel",
+          "city": "Гомель",
+          "coordinates": [
+            52.4412,
+            30.9878
+          ],
+          "doctorsCount": 1,
+          "doctors": [
+            {
+              "id": "by-gomel-rozhko-iurii-ivanovich",
+              "fullName": "Рожко Юрий Иванович",
+              "city": "Гомель",
+              "specialization": {
+                "diagnostics": true,
+                "surgery": true,
+                "raw": "диагностика + хирургия глаукомы"
+              },
+              "workplace": "РНПЦ РМ и ЭЧ; ГомГМУ",
+              "profileUrl": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tj",
+      "country": "Таджикистан",
+      "code": "TJ",
+      "flag": "🇹🇯",
+      "doctorsCount": 1,
+      "cities": [
+        {
+          "id": "tj-dushanbe",
+          "city": "Душанбе",
+          "coordinates": [
+            38.5598,
+            68.787
+          ],
+          "doctorsCount": 1,
+          "doctors": [
+            {
+              "id": "tj-dushanbe-sodikova-dil-bar-nizomiddinovna",
+              "fullName": "Содикова Дильбар Низомиддиновна",
+              "city": "Душанбе",
+              "specialization": {
+                "diagnostics": false,
+                "surgery": true,
+                "raw": "хирургия глаукомы"
+              },
+              "workplace": "офтальм. клиника, Душанбе",
+              "profileUrl": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

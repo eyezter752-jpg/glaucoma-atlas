@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-ink text-bone font-sans antialiased;
+    font-feature-settings: "ss01", "ss02";
+  }
+  ::selection {
+    @apply bg-ru text-ink;
+  }
+  svg {
+    outline: none;
+  }
+
+  @keyframes marker-pulse {
+    0%   { transform: scale(1);   opacity: 0.35; }
+    70%  { transform: scale(2.4); opacity: 0;    }
+    100% { transform: scale(2.4); opacity: 0;    }
+  }
+}
