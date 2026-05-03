@@ -1612,8 +1612,8 @@
           "doctorsCount": 1,
           "doctors": [
             {
-              "id": "by-gomel-rozhko-iurii-ivanovich",
-              "fullName": "Рожко Юрий Иванович",
+              "id": "by-gomel-rozhko-iuliia-ivanovna",
+              "fullName": "Рожко Юлия Ивановна",
               "city": "Гомель",
               "specialization": {
                 "diagnostics": true,
